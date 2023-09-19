@@ -1,4 +1,4 @@
-import goblinPNG from "../img/goblin.png";
+import goblinPNG from "../img/goblinPNG.png";
 const field = document.querySelectorAll(".field");
 
 function intervalFunc() {
