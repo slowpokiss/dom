@@ -1,0 +1,1 @@
+![CI](https://github.com/slowpokiss/dom/actions/workflows/web.yml/badge.svg)
