@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main_field {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.list_of_goblins {
+    border: 2px solid black;
+}
+
+.field {
+    width: 130px;
+    height: 130px;
+    display: block;
+    border: 2px solid black;
+}
+
+.field-line {
+    display: flex;
+    justify-content: start;
+    width: calc(130px * 4);
+    height: 130px;
+}
+
